@@ -1,0 +1,80 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="renzoe.com" resolutions="1x" timestamp="1442922331978">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3891413906" ref="about:contact:index"/>
+    <file name="about.css" crc="4222733920" ref="about"/>
+    <file name="iefonts_about.css" crc="298478891" ref="about"/>
+    <file name="contact.css" crc="224923040" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3503582" ref="contact"/>
+    <file name="index.css" crc="4181341700" ref="index"/>
+    <file name="iefonts_index.css" crc="43367717" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="renzo-ednaco.pdf" crc="59360711" seo="true" mt="1441106985000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="museutils.js" crc="275725342" ref="tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:index:about"/>
+    <file name="webpro.js" crc="3883484123" ref="index:about:contact"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:about"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:about"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:about"/>
+    <file name="form_check.php" crc="3932029206" ref="contact"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact"/>
+    <file name="form_process.php" crc="401030677" ref="contact"/>
+    <file name="form-u1194.php" crc="3839941073" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4199044748" ref="tablet>index"/>
+    <file name="broken_noise.jpg" crc="320070147" ref="tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="header_wallpaper756x356.png" crc="4068921425" seo="true" ref="tablet>index"/>
+    <file name="logo.png" crc="412598543" seo="true" ref="tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="behance.png" crc="421614313" seo="true" ref="tablet>index:index:about:contact"/>
+    <file name="linkedin.png" crc="60726535" seo="true" ref="tablet>index:index:about:contact"/>
+    <file name="logosmall.png" crc="148706670" seo="true" ref="tablet>index:tablet>about:tablet>contact:index:about:contact"/>
+    <file name="header_wallpaper.png" crc="159005980" seo="true" ref="index:about:contact"/>
+    <file name="tools-01.png" crc="193478936" seo="true" ref="index"/>
+    <file name="1441732309_streamline-35-01.png" crc="362701187" seo="true" ref="index"/>
+    <file name="behance2.png" crc="4284250657" seo="true" ref="index"/>
+    <file name="thumbnail1.jpg" crc="449223257" seo="true" ref="index:about"/>
+    <file name="thumbnail2.jpg" crc="469012597" seo="true" ref="index:about"/>
+    <file name="thumbnail3.jpg" crc="126315444" seo="true" ref="index:about"/>
+    <file name="crop-01.png" crc="4118437878" seo="true" ref="index"/>
+    <file name="email.png" crc="124043330" seo="true" ref="index"/>
+    <file name="website.svg" crc="121222227" ref="index:about"/>
+    <file name="website_poster_.png" crc="3781663244" ref="index"/>
+    <file name="brand.svg" crc="534597087" ref="index:about"/>
+    <file name="brand_poster_.png" crc="188969960" ref="index"/>
+    <file name="ako.png" crc="4121965688" seo="true" ref="about"/>
+    <file name="blank.gif" crc="4208392903" ref="about"/>
+    <file name="loading.gif" crc="3815509949" ref="about"/>
+    <file name="about vector ribbon.svg" crc="76746099" ref="about"/>
+    <file name="about vector ribbon_poster_.png" crc="78516572" ref="about"/>
+    <file name="u1200-17.png" crc="3876976069" ref="contact"/>
+    <file name="u1200-17-r.png" crc="3876976069" ref="contact"/>
+    <file name="u1200-17-m.png" crc="3887345450" ref="contact"/>
+    <file name="u1200-17-fs.png" crc="272662234" ref="contact"/>
+    <file name="phone.svg" crc="3861079835" ref="contact"/>
+    <file name="phone_poster_.png" crc="382703526" ref="contact"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="249226906" ref="tablet>about:tablet>index:tablet>contact"/>
+      <file name="about.css" crc="352387744" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="40814262" ref="tablet>about"/>
+      <file name="index.css" crc="3975256723" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3787870734" ref="tablet>index"/>
+      <file name="contact.css" crc="352387744" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="40814262" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="57607012" seo="true" mt="1442488680811" redirect="true"/>
+    <file name="about.html" crc="20906569" seo="true" mt="1442488628718" redirect="true"/>
+    <file name="contact.html" crc="3878566298" seo="true" mt="1442488628718" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4258156377" seo="true" mt="1442487883675" redirect="true"/>
+  <file name="about.html" crc="193843972" seo="true" mt="1442487883681" redirect="true"/>
+  <file name="contact.html" crc="4115317799" seo="true" mt="1442487883687" redirect="true"/>
+</manifest>
